@@ -1,0 +1,106 @@
+body {
+	background-color:#222;
+	background-image: url("../img/fundo8.jpg");
+	background-repeat: no-repeat;
+	background-size: 125%;
+	background-position: top;
+	color:white;
+}
+#principal{
+	background-color:#222;
+	background-image: url();
+	background-size: 125%;
+	background-position: top;
+	color:white;
+}
+h5{
+	text-align: center;
+}
+.center{
+	color:gold;
+	text-align: center;
+}
+#centro{
+	text-align: center;
+}
+.link{
+	color:white;
+}
+.color-gold,.color-gold-especial{
+	color: gold;
+}
+.link:hover{
+	color: gold;
+}
+.fixed{
+	position: fixed;
+	z-index: 1;
+	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+  	padding: 20px;
+	background-color: #222;
+	box-shadow: 5px 10px 8px black;
+	border-style: solid;
+	border-color:#AAA;
+}
+::-webkit-input-placeholder {
+   color: white;
+}
+.textofixado{
+	position: absolute;
+}
+.fechar{
+	margin-left: 95%;
+	margin-top: 0px;
+	color: gold;
+}
+.fechar:hover{
+	color: red;
+}
+.blacktxt{
+	border-color:#AAA;
+	background-color:#9e9605;
+}
+.color-gold-especial{
+	border-bottom: solid;
+	border-bottom-color: gold; 
+}
+.especial{
+	text-shadow: 8px 4px 4px black;
+}
+.left{
+	margin-left: 0;
+}
+.perfil{
+	margin-left: 20%;
+}
+.fixed2{
+	position: fixed;
+	z-index: 1;
+	background-color: #222;
+	box-shadow: 5px 10px 8px black;
+	border-style: solid;
+	border-color: gold;
+}
+.img{
+	margin-top: 6px;
+}
+.dados{
+	margin-left: 15px;
+}
+.border{
+	background-color: #222;
+	box-shadow: 5px 5px 15px black;
+	border: solid;
+	border-color:#AAA;
+}
+.jojobtnL{
+	background-image:linear-gradient(to right, #fa9e4d,#79e1ec, #d698eb);
+}
+.jojobtnR{
+	background-image:linear-gradient(to right, #d698eb, #fe8e9c);
+}
+.img{
+	
+}
